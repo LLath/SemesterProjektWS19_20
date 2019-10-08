@@ -12,3 +12,5 @@ cd rogue/dist/
 
 start emrun webserver:  
 emrun --no_browser --port 8080 roguejs.1.0.0-XX.html // replace XX with actual version number
+
+open http://localhost:8080/ in your browser  
