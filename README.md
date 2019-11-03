@@ -19,3 +19,7 @@ open http://localhost:8080/ in your browser
 
 in asteroids folder:
 `emcc -o app.html asteroids/*.c -Wall -g -lm -s USE_SDL=2`
+
+## Guide on submodules:
+
+https://git-scm.com/book/en/v2/Git-Tools-Submodules
