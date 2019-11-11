@@ -1,3 +1,8 @@
 [submodule "asteroids"]
 	path = asteroids
 	url = https://github.com/plojo/asteroids.git
+
+[submodule "snake-wasm"]
+	path = Working/Snake/snake-wasm
+	url = https://github.com/fredericcambon/snake-wasm
+	ignore = dirty
