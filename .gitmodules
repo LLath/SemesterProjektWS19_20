@@ -1,5 +1,5 @@
 [submodule "asteroids"]
-	path = asteroids
+	path = Working/Asteroids/asteroids
 	url = https://github.com/plojo/asteroids.git
 
 [submodule "snake-wasm"]
