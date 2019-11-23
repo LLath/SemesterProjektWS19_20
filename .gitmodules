@@ -12,3 +12,6 @@
 [submodule "Working/DOSBox/em-dosbox"]
 	path = Working/DOSBox/em-dosbox
 	url = https://github.com/dreamlayers/em-dosbox.git
+[submodule "InProgress/DOSBox/em-dosbox"]
+	path = InProgress/DOSBox/em-dosbox
+	url = https://github.com/dreamlayers/em-dosbox.git
