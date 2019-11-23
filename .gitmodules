@@ -9,3 +9,7 @@
 [submodule "InProgress/Pacman/pacman-webassembly"]
 	path = InProgress/Pacman/pacman-webassembly
 	url = https://github.com/plojo/pacman-webassembly.git
+	
+[submodule "Working/DOSBox/em-dosbox"]
+	path = Working/DOSBox/em-dosbox
+	url = https://github.com/dreamlayers/em-dosbox.git
