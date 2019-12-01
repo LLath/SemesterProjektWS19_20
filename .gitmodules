@@ -18,6 +18,7 @@
 [submodule "bomberman-wasm"]
 	path = Working/Bomberman/bomberman-wasm
 	url = https://github.com/soofm/bomberman-wasm.git
-[submodule "Working/Rogue/Working/Rogue/rogue"]
-	path = Working/Rogue/Working/Rogue/rogue
+
+[submodule "rogue"]
+	path = Working/Rogue/rogue
 	url = https://github.com/mad4j/rogue.js
