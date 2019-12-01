@@ -6,3 +6,15 @@
 	path = Working/Snake/snake-wasm
 	url = https://github.com/fredericcambon/snake-wasm
 	ignore = dirty
+
+[submodule "InProgress/Pacman/pacman-webassembly"]
+	path = InProgress/Pacman/pacman-webassembly
+	url = https://github.com/plojo/pacman-webassembly.git
+	
+[submodule "InProgress/DOSBox/em-dosbox"]
+	path = InProgress/DOSBox/em-dosbox
+	url = https://github.com/dreamlayers/em-dosbox.git
+
+[submodule "bomberman-wasm"]
+	path = Working/Bomberman/bomberman-wasm
+	url = https://github.com/soofm/bomberman-wasm.git
