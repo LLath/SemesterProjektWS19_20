@@ -2,11 +2,6 @@
 	path = Working/Asteroids/asteroids
 	url = https://github.com/plojo/asteroids.git
 
-[submodule "snake-wasm"]
-	path = Working/Snake/snake-wasm
-	url = https://github.com/fredericcambon/snake-wasm
-	ignore = dirty
-
 [submodule "InProgress/Pacman/pacman-webassembly"]
 	path = InProgress/Pacman/pacman-webassembly
 	url = https://github.com/plojo/pacman-webassembly.git
@@ -22,3 +17,6 @@
 [submodule "rogue"]
 	path = Working/Rogue/rogue
 	url = https://github.com/mad4j/rogue.js
+[submodule "Working/Snake/snake-wasm"]
+	path = Working/Snake/snake-wasm
+	url = https://github.com/fredericcambon/snake-wasm
